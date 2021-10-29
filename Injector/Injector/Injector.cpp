@@ -16,12 +16,12 @@ int main(int argc, char** argv)
         return 0;
     }
     else {
-        std::cout << "[Inj] dll doesn exists in " << dll_path << std::endl;
+        std::cout << "[Inj] dll doesnt exists in " << dll_path << std::endl;
         Sleep(5000);
         exit(-1);
         return -1;
     }
-    return 0;
+    return -1;
 }
 
 BOOL exists(char* dll) {
