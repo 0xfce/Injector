@@ -1,5 +1,5 @@
 # Injector
-Just a simple dll injector for dll cheats, anti-virus might flag because the in general injecting something into a process is generally used in trojans and viruses. build the project on your own.
+Just a simple dll injector for dll cheats, anti-virus might flag because in general injecting something into a process is generally used in trojans and viruses. build the project on your own.
 
 ## How to use
 ```sh
