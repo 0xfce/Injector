@@ -3,7 +3,7 @@ Just a simple dll injector for dll cheats, anti-virus might flag because in gene
 
 ## How to use
 ```sh
-drag the dll hack into the exe, just as simple is that ;)
+drag the dll hack into the exe, just as simple as that ;)
 ```
 
 ## Note
